@@ -162,6 +162,31 @@ namespace Dogged.Native
         /// Patch application failed.
         /// </summary>
         GIT_EAPPLYFAIL = -35,
+
+        /// <summary>
+        /// The object is not owned by the current user
+        /// </summary>
+        GIT_EOWNER = -36,
+
+        /// <summary>
+        /// The operation timed out
+        /// </summary>
+        GIT_TIMEOUT = -37,
+
+        /// <summary>
+        /// There were no changes
+        /// </summary>
+        GIT_EUNCHANGED = -38,
+
+        /// <summary>
+        /// An option is not supported
+        /// </summary>
+        GIT_ENOTSUPPORTED = -39,
+
+        /// <summary>
+        /// The subject is read-only
+        /// </summary>
+        GIT_EREADONLY = -40
     }
 
     /// <summary>
