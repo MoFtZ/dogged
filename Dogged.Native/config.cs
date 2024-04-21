@@ -47,10 +47,15 @@ namespace Dogged.Native
         GIT_CONFIG_LEVEL_LOCAL = 5,
 
         /// <summary>
+        /// Worktree specific configuration file; $GIT_DIR/config.worktree
+        /// </summary>
+        GIT_CONFIG_LEVEL_WORKTREE = 6,
+
+        /// <summary>
         /// Application specific configuration file; freely defined by
         /// applications.
         /// </summary>
-        GIT_CONFIG_LEVEL_APP = 6,
+        GIT_CONFIG_LEVEL_APP = 7,
 
         /// <summary>
         /// Represents the highest level available config file (i.e. the

@@ -39,10 +39,15 @@ namespace Dogged
         Local = 5,
 
         /// <summary>
+        /// Worktree specific configuration file; $GIT_DIR/config.worktree
+        /// </summary>
+        Worktree = 6,
+
+        /// <summary>
         /// Application specific configuration file; freely defined by
         /// applications.
         /// </summary>
-        Application = 6,
+        Application = 7,
 
         /// <summary>
         /// Represents the highest level available config file (i.e. the
