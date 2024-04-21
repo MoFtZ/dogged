@@ -20,6 +20,10 @@
     <RepositoryUrl>https://github.com/ethomson/dogged.git</RepositoryUrl>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(NETCoreSdkRuntimeIdentifier)' == 'osx-arm64'">
+    <DefineConstants>MACOS_ARM64;$(DefineConstants)</DefineConstants>
+  </PropertyGroup>
+
   <ItemGroup>
     <None Include="..\Images\dogged-light.png" Pack="true" PackagePath="Images\" />
   </ItemGroup>
