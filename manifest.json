@@ -105,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/dogged.native/Dogged.Native.git_config_level_t.html",
-          "hash": "Y9sRh4lJjQRvoybbgD9wmQuMw5Tn2ZrYbPXoDaf0wdM="
+          "hash": "4MdKJ1AJDdR+1lhONX8ZRWJO5mE6xy7JM751lUMQ7wU="
         }
       },
       "is_incremental": false,
@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/dogged.native/Dogged.Native.git_error.html",
-          "hash": "jOQEsuN/P2lNatal8qXiwBeYZLP63C6G55f+sdRQaRs="
+          "hash": "UFPNSVKzlfP7/6zEyBxszfXymaCJ/MZVmKirgse+p+c="
         }
       },
       "is_incremental": false,
@@ -129,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/dogged.native/Dogged.Native.git_error_code.html",
-          "hash": "XFT/xSev09VlhhIaxJjL83gp5qcMSJfYxetNxusCvho="
+          "hash": "vGXwHm9hR8+N/Sy1wu2Jjtc6qoYZS6ocF1fmybrq7OQ="
         }
       },
       "is_incremental": false,
@@ -141,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/dogged.native/Dogged.Native.git_error_t.html",
-          "hash": "KPkz1q7+vcgp5084xQhkGP+0oyEamxR2a3aBCtkHuOw="
+          "hash": "GAC77BBSACU9IQWvhiumD6gUiwOee8vMSCWcU6c7cXc="
         }
       },
       "is_incremental": false,
@@ -621,7 +621,7 @@
       "output": {
         ".html": {
           "relative_path": "api/dogged/Dogged.ConfigurationLevel.html",
-          "hash": "q2X6NP6PwPCh8Vq9pKB0y4fd4iIiL0WcjL28iHwt8oU="
+          "hash": "dxvVT2CPR7CD6J8WJHOJF0zjCnArKoE7idsjv1T9DKM="
         }
       },
       "is_incremental": false,
